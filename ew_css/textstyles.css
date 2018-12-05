@@ -148,5 +148,12 @@ font-size: 18px;
 font-weight:700; 
 background-color: #FEFEFF; 
 word-wrap: break-word;}
+.Style41{font-family: 'TimesNewRomanPS-BoldMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+color: #FE2500;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
