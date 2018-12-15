@@ -138,5 +138,16 @@ text-decoration: underline;
 word-wrap: break-word;}
 a.linkStyle_41:visited{color:#0432FE; text-decoration:underline;}
 a.linkStyle_41:hover{color:#0432FE; text-decoration:underline;}
+.Style44{font-family: 'TimesNewRomanPSMT','Times New Roman',serif;
+font-size: 14px;
+vertical-align: 4.2px;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+.Style45{font-family: 'TimesNewRomanPS-BoldMT','Times New Roman',serif;
+font-size: 20px; 
+font-weight:700; 
+margin:0;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
