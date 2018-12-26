@@ -173,5 +173,16 @@ font-size: 18px;
 color: #FEFEFE;
 background-color: #FEFEFF; 
 word-wrap: break-word;}
+.Style50{font-family: 'TimesNewRomanPS-BoldMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight:700; 
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+.Style51{font-family: 'TimesNewRomanPSMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight: 400;
+word-wrap: break-word;}
+.Style52{font-family: 'Helvetica',sans-serif;
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
