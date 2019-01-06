@@ -184,5 +184,11 @@ font-weight: 400;
 word-wrap: break-word;}
 .Style52{font-family: 'Helvetica',sans-serif;
 word-wrap: break-word;}
+.Style53{font-family: 'TimesNewRomanPSMT','Times New Roman',serif;
+font-size: 18px; 
+margin:0;
+color: #FE2500;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
