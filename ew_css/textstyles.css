@@ -171,5 +171,20 @@ font-weight:700;
 color: #FE2500;
 background-color: #FEFEFF; 
 word-wrap: break-word;}
+.linkStyle_46{font-family: 'TimesNewRomanPSMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight:700; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#0432FE#0432FE#0432FE*/
+background-color: #FEFEFF; 
+word-wrap: break-word;}
+a.linkStyle_46:visited{color:#0432FE; text-decoration:underline;}
+a.linkStyle_46:hover{color:#0432FE; text-decoration:underline;}
+.Style49{font-family: 'TimesNewRomanPS-BoldMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight:700; 
+background-color: #FEFEFF; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
