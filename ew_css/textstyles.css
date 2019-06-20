@@ -197,5 +197,12 @@ font-weight:700;
 color: #FF2600;
 background-color: #FEFEFF; 
 word-wrap: break-word;}
+.Style52{font-family: 'TimesNewRomanPSMT','Times New Roman',serif;
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+color: #FF2600;
+background-color: #FEFEFF; 
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
